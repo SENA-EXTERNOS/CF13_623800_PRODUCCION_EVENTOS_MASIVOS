@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="973.943" height="367.463" viewBox="0 0 973.943 367.463">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_34803" data-name="Rectángulo 34803" width="34.17" height="34.17" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_34802" data-name="Rectángulo 34802" width="34.169" height="34.169" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_34819" data-name="Rectángulo 34819" width="15.453" height="15.453" fill="#fedc72"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_81218" data-name="Grupo 81218" transform="translate(-343.37 -1841.007)">
+    <g id="Grupo_80929" data-name="Grupo 80929" transform="matrix(0.966, -0.259, 0.259, 0.966, 343.37, 1849.851)" style="isolation: isolate">
+      <g id="Grupo_80823" data-name="Grupo 80823" clip-path="url(#clip-path)">
+        <g id="Grupo_80822" data-name="Grupo 80822" transform="translate(0 0.001)">
+          <g id="Grupo_80821" data-name="Grupo 80821" clip-path="url(#clip-path-2)">
+            <g id="Grupo_80820" data-name="Grupo 80820" transform="translate(0 -0.001)" style="mix-blend-mode: overlay;isolation: isolate">
+              <g id="Grupo_80819" data-name="Grupo 80819" transform="translate(0 0)">
+                <g id="Grupo_80818" data-name="Grupo 80818" clip-path="url(#clip-path)">
+                  <path id="Trazado_115727" data-name="Trazado 115727" d="M24.164,10V5.649A5.651,5.651,0,0,0,18.513,0H15.656A5.651,5.651,0,0,0,10,5.649V10H5.649A5.65,5.65,0,0,0,0,15.656v2.857a5.65,5.65,0,0,0,5.649,5.651H10V28.52a5.65,5.65,0,0,0,5.651,5.649h2.857a5.65,5.65,0,0,0,5.651-5.649V24.164H28.52a5.651,5.651,0,0,0,5.649-5.651V15.656A5.651,5.651,0,0,0,28.52,10Z" transform="translate(0 0)" fill="#5038a1" fill-rule="evenodd"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_80932" data-name="Grupo 80932" transform="translate(600 1884.273)" style="isolation: isolate">
+      <g id="Grupo_80864" data-name="Grupo 80864" clip-path="url(#clip-path-4)">
+        <g id="Grupo_80863" data-name="Grupo 80863" transform="translate(0 0)">
+          <g id="Grupo_80862" data-name="Grupo 80862" clip-path="url(#clip-path-4)">
+            <g id="Grupo_80861" data-name="Grupo 80861" style="mix-blend-mode: overlay;isolation: isolate">
+              <g id="Grupo_80860" data-name="Grupo 80860">
+                <g id="Grupo_80859" data-name="Grupo 80859" clip-path="url(#clip-path-4)">
+                  <path id="Trazado_115737" data-name="Trazado 115737" d="M15.453,7.726A7.727,7.727,0,1,1,7.727,0a7.726,7.726,0,0,1,7.726,7.726" transform="translate(0 0)" fill="#fedc72"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line id="Línea_150" data-name="Línea 150" y1="32.801" x2="25.784" transform="translate(1281.7 2165.839)" fill="none" stroke="#8c6df2" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+    <line id="Línea_151" data-name="Línea 151" y1="32.801" x2="25.784" transform="translate(1276.808 2085.037)" fill="none" stroke="#fedc72" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    <line id="Línea_152" data-name="Línea 152" y1="32.801" x2="25.784" transform="translate(1210 2126.646)" fill="none" stroke="#fedc72" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+</svg>
