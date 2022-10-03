@@ -64,7 +64,7 @@
             li
               i.lista-ul__vineta 
               p.mb-0 #[b Emergencia general], o evento adverso que no puede ser controlado con los recursos de la organización y requiere la participación de organismos de socorro tales como bomberos, policía, defensa civil, Cruz Roja, entre otros existentes en la región, para brindar la atención y controlar la situación presentada.
-      .row.justify-content-center.align-items-center(titulo="Emergencia")
+      .row.justify-content-center.align-items-center(titulo="Desastres")
         .col-lg-2
           img.img-a.img-t(src='@/assets/curso/temas/img9.svg', alt='')
         .col-lg-8
@@ -105,7 +105,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6
-        .color-fondo-text.bg-color(data-aos="fade-down")
+        .color-fondo-text.bg-color.mb-3(data-aos="fade-down")
           .color-fondo-text__texto 
             p De acuerdo con los conceptos referidos anteriormente, se debe tener en cuenta la importancia de analizar el comportamiento de un grupo en caso de la ocurrencia de un suceso catastrófico que requiera procesos de evacuación, por ello, en la gestión de emergencias y desastres se contemplan los procedimientos operativos normalizados para responder ante una emergencia, evitando que las personas salgan afectadas. Siempre se deberá garantizar que se cuenta con los recursos necesarios para la orientación y atención de las masas dentro de un evento.
 

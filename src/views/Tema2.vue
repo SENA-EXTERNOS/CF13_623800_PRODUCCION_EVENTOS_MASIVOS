@@ -14,7 +14,7 @@
           .color-fondo-text2__texto 
             p #[b Amenaza:] De acuerdo con el marco legal vigente para Colombia, se define amenaza como el “peligro latente de que un evento físico de origen natural, o causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales (Ley 1523, 2012, art. 4, núm.. 3).         
       .col-lg-4
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img15.svg', alt='')
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img16_1.svg', alt='')
 
     h4(data-aos="fade-down").mb-5 Las amenazas pueden ser: 
 
