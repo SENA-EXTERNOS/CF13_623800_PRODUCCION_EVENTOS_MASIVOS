@@ -38,7 +38,7 @@
           .col-lg-2
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img46.svg', alt='')
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img48.png')})`}"
       )

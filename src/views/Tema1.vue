@@ -7,19 +7,23 @@
         span 1
       h1 Riesgos, emergencias y psicología de masas 
       
-    .row.justify-content-center.align-items-end.mb-5           
-      .col-lg-3
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')      
-      .col-lg-9
-        p(data-aos="fade-down").mb-0.mt-3 Colombia, dada su diversidad geográfica y sus condiciones climáticas, está expuesta a sismos, inundaciones y deslizamientos, entre otros, así como a eventos peligrosos de origen antrópico que pueden dar origen de emergencias tales como incendios forestales o estructurales, explosiones, asonadas, revueltas, etc. Todos estos son posibles factores desencadenantes de sucesos indeseados, capaces de generar una emergencia, que no es otra cosa que la materialización de un riesgo que interrumpe el normal funcionamiento o desarrollo de una actividad. 
-
+      
+    .row.justify-content-end.align-items-stretch.mb-5           
+      .col-lg-1.bg10.d-none.d-lg-block
+      .col-lg-9.bg10.ps-5.p-3
+        p(data-aos="fade-down").mb-0 Colombia, dada su diversidad geográfica y sus condiciones climáticas, está expuesta a sismos, inundaciones y deslizamientos, entre otros, así como a eventos peligrosos de origen antrópico que pueden dar origen de emergencias tales como incendios forestales o estructurales, explosiones, asonadas, revueltas, etc. Todos estos son posibles factores desencadenantes de sucesos indeseados, capaces de generar una emergencia, que no es otra cosa que la materialización de un riesgo que interrumpe el normal funcionamiento o desarrollo de una actividad. 
+    .tarjeta.position-relative
+      .row.justify-content-center.align-items-center
+        .col-lg-2.col-5.mb-lg-0.mb-3
+          .imagen-absolute3
+            img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')  
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-7
         p(data-aos="fade-down").my-3 Es por esto que se debe tener claridad en la conceptualización de situaciones claves como ‘riesgo’ y ‘emergencia’, ya que estos, asociados al comportamiento de un grupo poblacional, pueden generar una respuesta acertada o, por el contrario, convertirse en un factor agravante de la situación y pasar de ser una emergencia para convertirse en un desastre, al sobrepasar la capacidad de respuesta que se tiene para un evento determinado.  
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.png', alt='')
 
-    .cajon.color-primario.p-4.mb-5(data-aos="flip-down")
+    .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
       p(data-aos="fade-down").mb-0 a continuación algunos conceptos claves que debe tener en cuenta:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg1")(data-aos="fade-right")
@@ -70,14 +74,17 @@
         .col-lg-8
           p Ocurren cuando la emergencia sobrepasa la capacidad de respuesta ante un evento. #[b La Ley 1523 de 2012] lo define como “el resultado que se desencadena de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales que al encontrar condiciones propicias de vulnerabilidad en las personas, los bienes, la infraestructura, los medios de subsistencia, la prestación de servicios o los recursos ambientales, causa daños o pérdidas humanas, materiales, económicas o ambientales, generando una alteración intensa, grave y extendida en las condiciones normales de funcionamiento de la sociedad, que exige del Estado y del sistema nacional ejecutar acciones de respuesta a la emergencia, rehabilitación y reconstrucción”  #[b (art. 4, núm.. 8).]
 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-8
+    .row.justify-content-start.align-items-stretch.mb-5           
+      .col-lg-9
         .cajon.color-primario.p-4(data-aos="flip-down")
           h4(data-aos="fade-down") Psicología de masas
-          p(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionarse su actuar. A esta conducta se debe prestar especial atención toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.         
-      .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img10.svg', alt='')
+          p.pe-5(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionarse su actuar. A esta conducta se debe prestar especial atención toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.         
 
+    .tarjeta.position-relative
+      .row.justify-content-center.align-items-center
+        .col-lg-2.col-5.mb-lg-0.mb-3
+          .imagen-absolute4
+            img(data-aos="zoom-in")(src='@/assets/curso/temas/img10.png', alt='')  
     .bg2.p-3.mb-5(data-aos="flip-down")
       p(data-aos="fade-down").mb-0 #[b Teniendo en cuenta lo anterior], surge la importancia en la intervención y planeación de eventos, creando conductas, pautas y lineamientos que garanticen la preservación de la integridad de las personas que participan.
 
@@ -111,11 +118,11 @@
 
         p(data-aos="fade-down") Con ese fin se clasifica el tipo de masas en activas y pasivas. Las primeras se consideran turbas y las segundas audiencias o públicos. La característica principal de la turba consiste en que todos los miembros están enfocados en la realización de la misma actividad o tienen el mismo comportamiento, siendo más difícil el control.          
       .col-lg-6
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img15.svg', alt='')
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img15.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-4
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img16.svg', alt='')                 
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img16.png', alt='')                 
       .col-lg-8
         p(data-aos="fade-down") Por esa razón es importante designar un líder que pueda garantizar la activación de planes de evacuación en masa a través de gestos que lleven al cambio de comportamientos y garanticen la seguridad de las personas. o tienen el mismo comportamiento, siendo más difícil el control.          
      

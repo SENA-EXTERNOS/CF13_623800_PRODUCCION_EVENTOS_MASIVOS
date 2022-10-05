@@ -1,15 +1,19 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 4s ease-in-out infinite alternate
-    position: absolute
-    top: 25%
-    right: 60%
-  &-2
     animation: float2 3s ease-in-out infinite alternate
     position: absolute
-    top: 71%
-    right: 7%
-
+    top: 55%
+    right: 10%
+  &-2
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 18%
+    right: 17%
+  &-3
+    animation: float2 4s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 70%
 
 @keyframes float1
 	0% 
@@ -59,9 +63,12 @@
 .cajon.color-primario::before
   background-color: #8C6DF2 
 
+.acordion__accion__btn--b
+  background-color: white  
+
 .acordion
   .tarjeta.bg1
-    background-color: #8C6DF2
+    background-color: #D7CCFB
   &__titulo
     color: white !important
 .tarjeta.bg1.acordion__activo
@@ -72,10 +79,8 @@
   border-radius: 10px 
 
 .bg3
-  background-image: url('../assets/curso/temas/img12.png')    
-  background-repeat: no-repeat
-  background-size: cover
-  background-position: center 
+  background-color: #FFF6DB
+  border-radius: 15px
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   @media (max-width: 810px)
@@ -95,13 +100,13 @@
     margin: 0 3px   
  
 .slyder-a__bullets__item--active
-  background-color: #FDB74D !important
-  border: 1px solid #FDB74D
+  background-color: #8C6DF2 !important
+  border: 1px solid #8C6DF2
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #5038A1
 .slyder-a__bullets__item
-  background-color: #FEE0AA
-  border: 1px solid #FEE0AA
+  background-color: #D6C6E2
+  border: 1px solid #D6C6E2
 
 .media  
   @media (max-width: 428px)
@@ -185,17 +190,13 @@
   border-radius: 10px !important 
 
 .bg6
-  background-color: #FEE69C
+  background-color: #FDB74D
   border-radius: 10px 0 0 10px
 .bg7
   background-color: #8C6DF2      
 
 .bg8
-  background-image: url('../assets/curso/temas/img30.png')    
-  background-repeat: no-repeat
-  background-size: cover
-  background-position: center   
-  background-color: #FEE69C
+  background-color: #FEDC72
   border-radius: 0 10px 10px 0  
 
 .bloque-texto-g.color-secundario  
@@ -217,8 +218,8 @@
     width: 100%
 
 .pasos-a.color-primario .pasos-a__circle
-  background-color: #5038A1
-.pasos-a.color-primario .pasos-a__circle div
+  background-color: #8C6DF2
+.pasos-a.color-acento-contenido .pasos-a__circle div
   color: white
 
 .tabs-c__content-item           
@@ -244,3 +245,47 @@
   transform: translateX(1400%) translateY(-85%)
   @media (max-width: 1300px)
     transform: translateX(1190%) translateY(-55%)
+
+.bg10
+  background-color: #FFF6DB  
+
+.imagen-absolute3
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(13%) translateY(-15%)  
+  @media (max-width: 1400px)
+    transform: translateX(0%) translateY(-15%)
+  @media (max-width: 810px)
+    display: none
+
+.imagen-absolute4
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(210%) translateY(-9%)  
+  @media (max-width: 1400px)
+    transform: translateX(188%) translateY(-18%)
+    width: 370px  
+  @media (max-width: 810px)
+    display: none
+
+.cajon.color-acento-contenido
+  background-color: #E2DAFC   
+
+.bg11
+  background-color: #FFF6DB
+  border-radius: 0 10px 10px 0 
+
+.me
+  margin-left: 35%
+  @media (max-width: 810px)
+    display: none
+
+.media-text          
+  @media (max-width: 810px)
+    padding-left: 2rem !important 
+    
+.media-r
+  @media (max-width: 810px)      
+    border-radius: 10px !important

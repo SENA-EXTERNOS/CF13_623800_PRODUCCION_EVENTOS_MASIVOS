@@ -18,7 +18,7 @@
 
     h4(data-aos="fade-down").mb-5 Las amenazas pueden ser: 
 
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg4")(data-aos="fade-right")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg1")(data-aos="fade-right")
       .row.justify-content-center.align-items-center(titulo="Posibles")
         .col-lg-8
           p Son aquellos eventos que no se han manifestado, pero que pueden llegar a presentarse si las condiciones ambientales y los comportamientos humanos desencadenan su materialización. Se identifican con el color verde. Por ejemplo, en una zona sin antecedentes de terremotos, pero sí con alta sismicidad, es posible la ocurrencia de un terremoto. 
@@ -40,7 +40,7 @@
       .col-lg-7.cajon.color-primario.p-4(data-aos="flip-down")
         p(data-aos="fade-down").mb-0 #[b A continuación, se estudiarán los conceptos y características de cada una de ellas.]
 
-    SlyderA(tipo="b")(data-aos="fade-left").bg5.p-4.mb-5
+    SlyderA(tipo="b")(data-aos="fade-left").bg3.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-6.col-md-10.col-sm-8.media
           h4 Amenazas Naturales
@@ -131,29 +131,26 @@
           img.img-a.img-t(src='@/assets/curso/temas/img24.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mb-5 
-      .col-lg-3
-        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img25.svg', alt='')              
-      .col-lg-9
-        p(data-aos="fade-down") Por su parte, la vulnerabilidad, hace referencia a las condiciones físicas, económicas, culturales y sociales que afectan la respuesta de un individuo o un grupo de individuos ante la materialización de una amenaza que puede afectar las condiciones de salud y el entorno del individuo o grupo social, por cambios en su hábitat, economía y demás aspectos habituales de su condición, generando respuestas diversas dependiendo de la capacidad de adaptación y manejo de recursos que se tenga.        
-        .row.justify-content-end.align-items-center
-          .col-lg-5.d-none.d-lg-block
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img26.svg', alt='') 
+      .col-lg-4
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img25.png', alt='')              
+      .col-lg-8
+        p(data-aos="fade-down") Por su parte, la #[b vulnerabilidad], hace referencia a las condiciones físicas, económicas, culturales y sociales que afectan la respuesta de un individuo o un grupo de individuos ante la materialización de una amenaza que puede afectar las condiciones de salud y el entorno del individuo o grupo social, por cambios en su hábitat, economía y demás aspectos habituales de su condición, generando respuestas diversas dependiendo de la capacidad de adaptación y manejo de recursos que se tenga.        
 
     p(data-aos="fade-down").mb-5 El grado de vulnerabilidad depende de los factores de riesgo existentes en el entorno y de los recursos con los que se cuente para afrontarlos. Para determinar el nivel de vulnerabilidad, se debe analizar de manera independiente, así:
 
     .row.justify-content-center.align-items-stretch.mb-5 
       .col-lg-4.bg6.p-4(data-aos="fade-left")
-        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img27.svg', alt='')
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img27.png', alt='')
         .text-center(data-aos="fade-down")
           h4.mb-4 Vulnerabilidad en los sistemas o procesos
           p.mb-0 La #[b vulnerabilidad en los sistemas o procesos] para la valoración de riesgos es muy importante identificar la vulnerabilidad en los sistemas y procesos, toda vez que en este aspecto se evalúa la respuesta que como organización se tenga frente a los  recursos referentes a servicios públicos, sistemas alternos de agua, energía, comunicaciones, y cómo desde antes de que un posible evento se manifieste se pueden identificar medidas de rehabilitación para garantizar la continuidad del negocio y la acciones que contribuyan a una recuperación rápida y eficiente ante la emergencia.   
       .col-lg-4.bg7.p-4
-        img.img-a.img-t.mb-3.mt-4(data-aos="zoom-in")(src='@/assets/curso/temas/img28.svg', alt='')
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img28.png', alt='')
         .text-center(data-aos="fade-down")
           h4.mb-4 Vulnerabilidad de las personas 
           p.mb-0 La #[b vulnerabilidad de las personas] es evaluada a partir de la capacitación, entrenamiento para la atención de emergencias, gestión de la organización en cuanto a la documentación de planes de emergencia y contingencia, convenios de ayuda mutua establecidos, y condiciones de seguridad como personal fijo y flotante dentro de las instalaciones.
       .col-lg-4.bg8.p-4(data-aos="fade-right")
-        img.img-a.img-t.mb-3.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img29.svg', alt='')
+        img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img29.png', alt='')
         .text-center(data-aos="fade-down")
           h4.mb-4 Vulnerabilidad de los recursos
           p.mb-0 El nivel de #[b vulnerabilidad de los recursos] se determina mediante un inventario de los elementos con los que cuenta la organización para atender una emergencia en caso de su posible materialización, de manera que pueda atender oportunamente la situación de peligro. Se deben considerar los recursos logísticos tales como señalización, condiciones de las vías de evacuación e infraestructura, y equipos como sistemas de detección de humo y alarmas que permitan monitorear la amenaza.

@@ -3,16 +3,20 @@ export default {
     componenteFormativo: 'Factores de riesgo y emergencias en un evento',
     descripcionCurso:
       'La finalidad de identificar los factores de riesgos y las amenazas asociadas a un evento está relacionada con el control y mitigación de las emergencias, por ello se debe comprender cuáles son los lineamientos de la normativa legal nacional, regional y local para desarrollarlo, cumpliendo con la documentación de los planes operativos normalizados.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/1.png'),
+        imagen: require('@/assets/curso/portada/1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/2.png'),
+        imagen: require('@/assets/curso/portada/2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/4.svg'),
       },
     ],
   },

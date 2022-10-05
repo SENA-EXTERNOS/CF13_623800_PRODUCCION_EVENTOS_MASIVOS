@@ -28,7 +28,7 @@
         p(data-aos="fade-down").mb-0 #[b Dentro de la normativa sobre el tema se encuentran:]
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
-        PasosA.color-primario(tipo="n")
+        PasosA.color-acento-contenido(tipo="n")
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-7
               h4(data-aos="fade-down") 1 de mayo de 1989
@@ -60,11 +60,7 @@
               p(data-aos="fade-down") Ley 1523 de 1012. Adopta la política nacional de gestión de riesgos de desastres y establece el Sistema Nacional de Gestión del Riesgo de Desastres para emitir regulaciones y normativas que permitan mitigar el riesgo y lograr un manejo adecuado de las emergencias cuando se presenten, replicando los lineamientos a todo el territorio.
               p(data-aos="fade-down") Para ello se crean en los departamentos los consejos de gestión de riesgo de desastre con sus comités, y a escala local el consejo municipal de la gestión del riesgo de desastres con sus comités. Estas entidades están conformadas por instituciones públicas y privadas, y es responsabilidad de los gobernadores y alcaldes intervenir y ejecutar actividades de mitigación de los factores de riesgo que puedan llegar a afectar la salubridad y la seguridad de su jurisdicción.
 
-    .position-relative
-      .row.justify-content-center.align-items-center
-        .col-lg-2.col-5.mb-lg-0.mb-3
-          .imagen-absolute1
-            img(data-aos="zoom-in")(src='@/assets/curso/temas/img38.svg', alt='')                                          
+                                        
     Separador 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.2	Entidades que intervienen en la gestión del riesgo
@@ -116,17 +112,6 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Para elaborar la matriz de riesgos, se debe aplicar la metodología de análisis de riesgo por colores, teniendo en cuenta que esta constituye una herramienta subjetiva, no obstante, al ser cualitativa permite identificar el tipo de amenazas, establecer el nivel de vulnerabilidad de las personas, los recursos, sistemas y procesos y, de acuerdo con ello, calificar el nivel de riesgo para el desarrollo de las actividades según las necesidades específicas de las organizaciones. 
 
-    //- .row.justify-content-center.align-items-center         
-    //-   .col-lg-5
-    //-     .bg2.p-3(data-aos="flip-down")
-    //-       p(data-aos="fade-down").mb-0 Para comprender a fondo este tema, le recomendamos descargar y estudiar el siguiente documento: Anexo 1 Metodología para el análisis de riesgos por colores, p. 11.                            
-    //-   .col-lg-5
-    //-     a.anexo(:href="obtenerLink('/downloads/ANEXO_1_METODOLOGIA_ANALISIS_DE_RIESGO_POR COLERES.pdf')" target="_blank")
-    //-       .anexo__icono
-    //-         img(src="@/assets/template/icono-pdf.svg")
-    //-       .anexo__texto
-    //-         p Anexo 1. METODOLOGIA ANALISIS RIESGO POR COLERES
-
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -136,7 +121,7 @@
             .col.mb-3.mb-sm-0
               p.mb-0 Para comprender a fondo este tema, le recomendamos descargar y estudiar el siguiente documento: Anexo 1 Metodología para el análisis de riesgos por colores, p. 11.
             .col-sm-auto
-              a.boton.color-acento-contenido.text-white(:href="obtenerLink('/downloads/ANEXO_1_METODOLOGIA_ANALISIS_DE_RIESGO_POR_COLERES.pdf')" target="_blank")
+              a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/ANEXO_1_METODOLOGIA_ANALISIS_DE_RIESGO_POR_COLERES.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download                                       
 </template>

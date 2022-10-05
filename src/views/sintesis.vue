@@ -3,10 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p(data-aos="fade-down").mb-5 Para la gestión oportuna de los riesgos y desastres se deben cumplir las normas y valorar el riesgo con el fin de establecer las medidas preventivas que permitan mitigar los efectos nocivos en caso de presentarse situaciones adversas no controladas. Estos son los temas tratados en este componente formativo.
-
+    p(data-aos="fade-down").mb-2 Para la gestión oportuna de los riesgos y desastres se deben cumplir las normas y valorar el riesgo con el fin de establecer las medidas preventivas que permitan mitigar los efectos nocivos en caso de presentarse situaciones adversas no controladas. Estos son los temas tratados en este componente formativo.
+    hr
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.my-5
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
       //- .col-auto
