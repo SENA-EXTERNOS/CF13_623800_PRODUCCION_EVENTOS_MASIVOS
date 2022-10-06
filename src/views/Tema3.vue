@@ -21,7 +21,7 @@
       .col-lg-8
         p(data-aos="fade-down").mb-0 Con el fin de establecer normas y procedimientos claros para la prevención y atención de desastres, se han generado leyes y decretos que orientan y regulan estos procesos. 
       .col-lg-4.d-none.d-lg-block
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33.png', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33-1.png', alt='')
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-5.cajon.color-primario.p-4(data-aos="flip-down")
@@ -70,7 +70,7 @@
       .col-lg-5.cajon.color-primario.p-4(data-aos="flip-down")
         p(data-aos="fade-down").mb-0 #[b  estas entidades u organización son:] 
 
-    TabsC.color-acento-botone.mb-5
+    TabsC.color-acento-botones.mb-5
       .py-3.py-md-4(titulo="Consejo Nacional para la Gestión del Riesgo")
         .row.justify-content-center.align-items-center
           .col-lg-4
@@ -88,10 +88,10 @@
 
             p #[b Comité de Conocimiento]: Encargado de construir lineamientos y promover procesos de investigación para conocer el riesgo, y generar conceptos que permitan la intervención oportuna. 
             p #[b Comité de Reducción:] Dirige las políticas; su finalidad es modificar o controlar las condiciones de riesgo existentes haciendo intervención prospectiva. 
-          .col-lg-10.mt-4
+
             p #[b Comité de Manejo de Desastres:] Orienta políticas de manejo de desastres y establece los procesos de recuperación y rehabilitación cuando se ha materializado una amenaza y los recursos no son suficientes para la atención. Su objetivo es garantizar la reconstrucción de condiciones económicas, infraestructura y servicios con el fin de disminuir la vulnerabilidad de las personas afectadas.              
       .py-3.py-md-4(titulo="Consejos departamentales, distritales y municipales para la gestión del riesgo")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-center.py-3
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img42.svg', alt='')
           .col-lg-6

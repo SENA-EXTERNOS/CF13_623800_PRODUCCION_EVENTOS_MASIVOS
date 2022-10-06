@@ -46,19 +46,19 @@
           h4 Amenazas Naturales
           p #[b Las amenazas naturales], como su nombre lo indica, están relacionadas con las condiciones atmosféricas, biológicas y del ambiente, cuyo origen está asociado a los cambios climáticos, y a procesos naturales de la Tierra asociados con cambios en su geología, en la atmósfera, o aparición de enfermedades o infestaciones que pueden llegar a afectar el desarrollo normal de un evento. De acuerdo con esta subclasificación, las amenazas naturales pueden ser, entre otras: 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Tsunamis
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Terremotos
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Erupciones volcánicas
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Tormentas eléctricas 
 
@@ -71,31 +71,31 @@
           h4 Amenazas Antrópicas
           p #[b Las amenazas antrópicas] están relacionadas con los peligros asociados al desarrollo de las diferentes actividades económicas para la producción de bienes o servicios. Surgen por fallas en sistemas y procesos que pueden generar afectaciones locativas, al medio ambiente y a terceros, afectando la salud y la integridad de las personas y la continuidad del negocio. Algunos ejemplos son: 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Colapso estructural
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Incendio 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Explosiones 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Delitos informáticos 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Derrame de sustancias químicas 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Derrame de biológicos o radioactivos 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Fugas de gases o sustancias tóxicas, entre otros. 
            
@@ -107,23 +107,23 @@
           p Las #[b amenazas socio naturales] son aquellas relacionadas con fenómenos de tipo biológico o fisicoquímico, asociados a los cambios ambientales por la intervención de los seres humanos en los ecosistemas. Por ejemplo:  
 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Pandemias 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Remociones en masa
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Avenidas torrenciales
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Inundaciones 
           ul.lista-ul
-            li
+            li.ps-3
               i.lista-ul__vineta 
               p.mb-0 Incendios forestales
            
@@ -143,7 +143,7 @@
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img27.png', alt='')
         .text-center(data-aos="fade-down")
           h4.mb-4 Vulnerabilidad en los sistemas o procesos
-          p.mb-0 La #[b vulnerabilidad en los sistemas o procesos] para la valoración de riesgos es muy importante identificar la vulnerabilidad en los sistemas y procesos, toda vez que en este aspecto se evalúa la respuesta que como organización se tenga frente a los  recursos referentes a servicios públicos, sistemas alternos de agua, energía, comunicaciones, y cómo desde antes de que un posible evento se manifieste se pueden identificar medidas de rehabilitación para garantizar la continuidad del negocio y la acciones que contribuyan a una recuperación rápida y eficiente ante la emergencia.   
+          p.mb-0 La #[b vulnerabilidad en los sistemas o procesos:] para la valoración de riesgos es muy importante identificar la vulnerabilidad en los sistemas y procesos, toda vez que en este aspecto se evalúa la respuesta que como organización se tenga frente a los  recursos referentes a servicios públicos, sistemas alternos de agua, energía, comunicaciones, y cómo desde antes de que un posible evento se manifieste se pueden identificar medidas de rehabilitación para garantizar la continuidad del negocio y la acciones que contribuyan a una recuperación rápida y eficiente ante la emergencia.   
       .col-lg-4.bg7.p-4
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img28.png', alt='')
         .text-center(data-aos="fade-down")

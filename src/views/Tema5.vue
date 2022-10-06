@@ -19,7 +19,7 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img52.png', alt='')                
       .col-lg-6
-        p(data-aos="fade-down").mb-0 El proceso de solicitud de permisos será responsabilidad de los organizadores del evento y la autorización de este debe ser analizada y aprobada por las alcaldías municipales y distritales, que tienen la obligación de disponer de los mecanismos para la recepción de los documentos y la aprobación o negación de los permisos.
+        p(data-aos="fade-down").mb-0 La solicitud de autorización se debe dirigir al alcalde o designado por la Administración municipal o distrital con por lo menos quince días hábiles, anteriores a la fecha del evento; debe estar firmada por el organizador, e incluir la información de la hora en que se llevará a cabo, el lugar, el aforo aproximado, y el tipo de evento que se hará.
     .position-relative
       .row.justify-content-center.align-items-center
         .col-lg-2.col-5.mb-lg-0.mb-3.d-none.d-lg-block

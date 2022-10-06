@@ -167,7 +167,7 @@ export default {
     {
       termino: 'Amenaza',
       significado:
-        '“Peligro latente de que un evento físico de origen natural, o causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales” (Ley 1523 de 2012, art. 4, núm. 3).',
+        '“peligro latente de que un evento físico de origen natural, o causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales” (Ley 1523 de 2012, art. 4, núm. 3).',
     },
     {
       termino: 'Desastre',
@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Vulnerabilidad',
       significado:
-        '“Susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos” (Ley 1523 de 2012, art. 4, núm. 27).',
+        '“susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos” (Ley 1523 de 2012, art. 4, núm. 27).',
     },
   ],
   referencias: [

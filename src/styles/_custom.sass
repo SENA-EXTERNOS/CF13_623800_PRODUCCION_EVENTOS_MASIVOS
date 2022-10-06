@@ -223,7 +223,7 @@
   color: white
 
 .tabs-c__content-item           
-  background-image: url('../assets/curso/temas/img39.svg')    
+  background-image: url('../assets/curso/temas/img39.png')    
   background-repeat: no-repeat
   background-size: cover
   background-position: center 
@@ -289,3 +289,52 @@
 .media-r
   @media (max-width: 810px)      
     border-radius: 10px !important
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: bold  
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 50px
+      height: 50px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: red
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        font-size: 30px
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 30px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 2px   

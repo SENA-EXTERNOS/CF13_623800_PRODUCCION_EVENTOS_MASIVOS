@@ -124,7 +124,7 @@
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img16.png', alt='')                 
       .col-lg-8
-        p(data-aos="fade-down") Por esa razón es importante designar un líder que pueda garantizar la activación de planes de evacuación en masa a través de gestos que lleven al cambio de comportamientos y garanticen la seguridad de las personas. o tienen el mismo comportamiento, siendo más difícil el control.          
+        p(data-aos="fade-down") Por esa razón es importante designar un líder que pueda garantizar la activación de planes de evacuación en masa a través de gestos que lleven al cambio de comportamientos y garanticen la seguridad de las personas.          
      
         .color-fondo-text1.bg-color(data-aos="fade-down")
           .color-fondo-text1__texto 
