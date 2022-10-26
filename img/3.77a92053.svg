@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600.967" height="221.117" viewBox="0 0 1600.967 221.117">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.667" y1="0.45" x2="0.105" y2="0.848" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdb74d"/>
+      <stop offset="1" stop-color="#5038a1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f2771"/>
+      <stop offset="1" stop-color="#2c6ae7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.902" y1="0.159" x2="0.099" y2="0.759" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M1609.832,1.117,10.394,0V220l1599.438,1.117Z" transform="translate(-10297.533 -13191)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.558" y2="0.705" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5038a1" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#8c6df2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.558" y2="0.705" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fedc72"/>
+      <stop offset="1" stop-color="#fedc72" stop-opacity="0.259"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="1" x2="0.558" y2="0.295" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdb74d"/>
+      <stop offset="1" stop-color="#fedc72" stop-opacity="0.322"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5038a1"/>
+      <stop offset="1" stop-color="#8c6df2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x2="0.5" y2="1" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-10" y1="1" x2="0.5" y2="0" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-11" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5038a1"/>
+      <stop offset="1" stop-color="#5038a1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdb74d" stop-opacity="0.549"/>
+      <stop offset="1" stop-color="#fedc72" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_53028" data-name="Grupo 53028" transform="translate(0.001 -67.883)">
+    <g id="Grupo_49020" data-name="Grupo 49020" transform="translate(0 69)">
+      <g id="Group_1153" data-name="Group 1153">
+        <g id="Grupo_127929" data-name="Grupo 127929" transform="translate(0 -69)">
+          <g id="Grupo_49020-2" data-name="Grupo 49020" transform="translate(0 69)">
+            <g id="Group_1153-2" data-name="Group 1153">
+              <path id="Recurso_1" data-name="Recurso 1" d="M0,220Z" fill="url(#linear-gradient-2)"/>
+              <g id="Grupo_53028-2" data-name="Grupo 53028" transform="translate(0.967 -69)">
+                <g id="Grupo_49020-3" data-name="Grupo 49020" transform="translate(0 69)">
+                  <g id="Group_1153-3" data-name="Group 1153">
+                    <path id="Recurso_1-2" data-name="Recurso 1" d="M0,0H1600V220H0Z" fill="url(#linear-gradient-3)"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Enmascarar_grupo_53" data-name="Enmascarar grupo 53" transform="translate(10288.106 13189.883)" clip-path="url(#clip-path)">
+                <rect id="Rectángulo_33785" data-name="Rectángulo 33785" width="146.924" height="582.766" transform="translate(-10284.293 -13240.065) rotate(-42)" opacity="0.8" fill="url(#linear-gradient-4)"/>
+                <rect id="Rectángulo_33789" data-name="Rectángulo 33789" width="146.924" height="582.766" transform="translate(-9028.357 -13240.065) rotate(-42)" opacity="0.8" fill="url(#linear-gradient-5)"/>
+                <rect id="Rectángulo_33788" data-name="Rectángulo 33788" width="198.144" height="469.041" transform="translate(-8945.593 -12799.479) rotate(-138)" opacity="0.8" fill="url(#linear-gradient-6)"/>
+                <rect id="Rectángulo_33806" data-name="Rectángulo 33806" width="282.322" height="700.657" transform="translate(-9450.551 -12743.152) rotate(-138)" opacity="0.8" fill="url(#linear-gradient-6)"/>
+                <rect id="Rectángulo_33786" data-name="Rectángulo 33786" width="146.924" height="174.111" transform="translate(-10363.33 -13223.266) rotate(-42)" fill="url(#linear-gradient-8)"/>
+                <rect id="Rectángulo_33787" data-name="Rectángulo 33787" width="535.235" height="358.208" transform="translate(-9970.047 -12641.101) rotate(-141)" fill="url(#linear-gradient-9)"/>
+                <rect id="Rectángulo_33805" data-name="Rectángulo 33805" width="363.235" height="892.208" transform="translate(-9223.289 -12790.669) rotate(137)" fill="url(#linear-gradient-10)"/>
+                <circle id="Elipse_4731" data-name="Elipse 4731" cx="118.5" cy="118.5" r="118.5" transform="translate(-10142.271 -13076.406) rotate(90)" fill="url(#linear-gradient-11)"/>
+                <circle id="Elipse_4732" data-name="Elipse 4732" cx="151" cy="151" r="151" transform="translate(-9150.312 -13348.682)" fill="url(#linear-gradient-12)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
