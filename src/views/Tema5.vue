@@ -11,7 +11,7 @@
       .col-lg-6
         .color-fondo-text.bg-color(data-aos="fade-down")
           .color-fondo-text__texto 
-            p El proceso de solicitud de permisos será responsabilidad de los organizadores del evento y la autorización de este debe ser analizada y aprobada por las alcaldías municipales y distritales, que tienen la obligación de disponer de los mecanismos para la recepción de los documentos y la aprobación o negación de los permisos.
+            p El proceso de solicitud de permisos será responsabilidad de los organizadores del evento y la autorización de este debe ser analizada y aprobada por las alcaldías municipales y distritales, que tienen la obligación de disponer sobre los mecanismos para la recepción de los documentos, la aprobación o negación de los permisos.
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img51.png', alt='')
 
@@ -19,16 +19,15 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img52.png', alt='')                
       .col-lg-6
-        p(data-aos="fade-down").mb-0 La solicitud de autorización se debe dirigir al alcalde o designado por la Administración municipal o distrital con por lo menos quince días hábiles, anteriores a la fecha del evento; debe estar firmada por el organizador, e incluir la información de la hora en que se llevará a cabo, el lugar, el aforo aproximado, y el tipo de evento que se hará.
+        p(data-aos="fade-down").mb-0 La solicitud de autorización se debe dirigir al alcalde o designado por la administración municipal o distrital, con quince días hábiles de anticipación, anteriores a la fecha del evento. Debe estar firmada por el organizador e incluir la información de la hora en que se llevará a cabo, el lugar, el aforo aproximado y el tipo de evento que se realizará.
+    
     .position-relative
       .row.justify-content-center.align-items-center
         .col-lg-2.col-5.mb-lg-0.mb-3.d-none.d-lg-block
           .imagen-absolute2
             img(data-aos="zoom-in")(src='@/assets/curso/temas/img53.png', alt='')
 
-    .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-12.cajon.color-primario.p-4(data-aos="flip-down")
-        p(data-aos="fade-down").mb-0 #[b Según la Guía técnica para la reglamentación local de eventos con aglomeraciones en público (2018, p. 32), se deben anexar los siguientes documentos:]
+    p.mb-4 Según la Guía técnica para la reglamentación local de eventos con aglomeraciones en público (2018, p. 32), se deben anexar los siguientes documentos:
 
     ImagenInfografica.color-secundario.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
@@ -49,7 +48,7 @@
 
       .tarjeta.color-acento-botones.p-3(x="41%" y="58%" numero="4")
         .h5.mb-2 Estación de Bomberos 
-        p.mb-0 Concepto integral de seguridad humana y contra incendios, emitido por el cuerpo de bomberos, que solicitará el plan de emergencias y contingencias, con vías de evacuación y planes operativos para la atención de situaciones adversas que se puedan presentar en el desarrollo del evento.   
+        p.mb-0 Concepto integral de seguridad humana y contra incendios, emitido por el cuerpo de bomberos, solicitado por el plan de emergencias y contingencias, donde se identifiquen las vías de evacuación y los planes operativos para la atención de situaciones adversas que se puedan presentar en el desarrollo del evento. 
 
       .tarjeta.color-acento-botones.p-3(x="47%" y="50%" numero="5")
         .h5.mb-2 Secretaría de Medio Ambiente 
@@ -80,7 +79,8 @@
           .col-lg-1.px-0
             img.img-t.me(data-aos="zoom-in")(src='@/assets/curso/temas/img55.svg', alt='')
           .col-lg-10.px-0.bg11.media-r
-            p(data-aos="fade-down").media-text.mb-0.ps-5.p-2 Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros. 
+            p(data-aos="fade-down").media-text.mb-0.ps-5.p-2 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+            
 </template>
 
 <script>

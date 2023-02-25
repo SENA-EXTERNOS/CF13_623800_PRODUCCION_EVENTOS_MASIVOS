@@ -23,8 +23,8 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.png', alt='')
 
-    .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-      p(data-aos="fade-down").mb-0 a continuación algunos conceptos claves que debe tener en cuenta:
+    
+    p(data-aos="fade-down").mb-4 A continuación, algunos conceptos claves que debe tener en cuenta:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg1")(data-aos="fade-right")
       .row.justify-content-center.align-items-center(titulo="Peligro")
@@ -63,11 +63,11 @@
 
             li
               i.lista-ul__vineta 
-              p.mb-0 #[b Emergencia parcial], o evento adverso que requiere de equipos de socorro establecidos en los comités de ayuda mutua con instituciones del sector aledaño a la ocurrencia del evento. Este tipo de emergencia no afecta a terceras personas y queda limitada a la organización donde ocurrió.
+              p.mb-0 #[b Emergencia parcial] o evento adverso, requiere de equipos de socorro establecidos en los comités de ayuda mutua con instituciones del sector aledaño a la ocurrencia del evento. Este tipo de emergencia no afecta a terceras personas y queda limitada a la organización donde ocurrió.
 
             li
               i.lista-ul__vineta 
-              p.mb-0 #[b Emergencia general], o evento adverso que no puede ser controlado con los recursos de la organización y requiere la participación de organismos de socorro tales como bomberos, policía, defensa civil, Cruz Roja, entre otros existentes en la región, para brindar la atención y controlar la situación presentada.
+              p.mb-0 #[b Emergencia general] o evento adverso, no puede ser controlado con los recursos de la organización y requiere la participación de organismos de socorro tales como bomberos, policía, defensa civil, Cruz Roja, entre otros existentes en la región, para brindar la atención y controlar la situación presentada. 
       .row.justify-content-center.align-items-center(titulo="Desastres")
         .col-lg-2
           img.img-a.img-t(src='@/assets/curso/temas/img9.svg', alt='')
@@ -78,7 +78,7 @@
       .col-lg-9
         .cajon.color-primario.p-4(data-aos="flip-down")
           h4(data-aos="fade-down") Psicología de masas
-          p.pe-5(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionarse su actuar. A esta conducta se debe prestar especial atención toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.         
+          p.pe-5(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionar su actuar. A esta conducta se debe prestar especial atención toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.
 
     .tarjeta.position-relative
       .row.justify-content-center.align-items-center
@@ -88,13 +88,13 @@
     .bg2.p-3.mb-5(data-aos="flip-down")
       p(data-aos="fade-down").mb-0 #[b Teniendo en cuenta lo anterior], surge la importancia en la intervención y planeación de eventos, creando conductas, pautas y lineamientos que garanticen la preservación de la integridad de las personas que participan.
 
-    p(data-aos="fade-down").mb-5 De acuerdo con lo estudiado por #[b Gustav Le Bon (2007)], con respecto a la psicologìa de masas,  se deben tener en cuenta los siguientes aspectos:
+    p(data-aos="fade-down").mb-5 De acuerdo con lo estudiado por Gustav Le Bon (2007), con respecto a la psicología de masas, se deben tener en cuenta los siguientes aspectos
 
     SlyderA(tipo="b")(data-aos="fade-left").bg3.p-4.mb-5
       .row.justify-content-center.align-items-center(titulo="Titulo item 1")
         .col-lg-7.col-md-10.col-sm-8.media
           h4 Impulsividad, movilidad e irritabilidad de las masas:
-          p Son características fundamentales de la masa que está conducida casi exclusivamente por el inconsciente. Sus actos están mucho más influidos por la médula espinal que por el cerebro. Las acciones realizadas pueden ser perfectas en cuanto a su ejecución, pero al no estar dirigidas por el cerebro, el individuo actúa según los azares de la excitación.
+          p Son características fundamentales de la masa que está conducida casi exclusivamente por el inconsciente. Sus actos están más influidos por la médula espinal que por el cerebro. Las acciones realizadas pueden ser perfectas en cuanto a su ejecución, pero al no estar dirigidas por el cerebro, el individuo actúa según los azares de la excitación.
         .col-lg-3.col-md-10.col-sm-8.media
           img.img-a.img-t(src='@/assets/curso/temas/img11.svg', alt='')
       .row.justify-content-center.align-items-center(titulo="Titulo item 1")
@@ -116,7 +116,7 @@
           .color-fondo-text__texto 
             p De acuerdo con los conceptos referidos anteriormente, se debe tener en cuenta la importancia de analizar el comportamiento de un grupo en caso de la ocurrencia de un suceso catastrófico que requiera procesos de evacuación, por ello, en la gestión de emergencias y desastres se contemplan los procedimientos operativos normalizados para responder ante una emergencia, evitando que las personas salgan afectadas. Siempre se deberá garantizar que se cuenta con los recursos necesarios para la orientación y atención de las masas dentro de un evento.
 
-        p(data-aos="fade-down") Con ese fin se clasifica el tipo de masas en activas y pasivas. Las primeras se consideran turbas y las segundas audiencias o públicos. La característica principal de la turba consiste en que todos los miembros están enfocados en la realización de la misma actividad o tienen el mismo comportamiento, siendo más difícil el control.          
+        p(data-aos="fade-down") Con ese fin se clasifica el tipo de masas en activas y pasivas. Las primeras se consideran turbas y las segundas audiencias o públicos. La característica principal de la turba, consiste en que todos los miembros están enfocados en la realización de la misma actividad o tienen el mismo comportamiento, siendo más difícil el control. Por esa razón, es importante designar un líder que pueda garantizar la activación de planes de evacuación en masa a través de gestos que lleven al cambio de comportamientos y garanticen la seguridad de las personas. 
       .col-lg-6
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img15.png', alt='')
 

@@ -9,15 +9,15 @@
           figure
             img(src="@/assets/template/multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Selección Múltiple
+        .titulo-segundo.color-acento-contenido
+          h2 Factores de riesgo y emergencias en un evento
         p.mb-4 En esta actividad se revisarán las generalidades y conceptos básicos de la gestión de emergencias, abordados durante el desarrollo de esta unidad formativa.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Selección múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b.color-acento-botones(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 </template>

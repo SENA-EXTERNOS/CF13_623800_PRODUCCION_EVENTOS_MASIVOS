@@ -6,15 +6,14 @@
       .titulo-principal__numero
         span 4
       h1 Niveles de complejidad de un evento 
-    .row.justify-content-center.align-items-center.mb-5           
+
+    .row.justify-content-center.align-items-center.mb-4          
       .col-lg-8
-        p(data-aos="fade-down").mb-0 Después de valorar las amenazas y la vulnerabilidad de un evento es posible establecer su nivel de riesgo y por lo tanto su complejidad, bien sea este de afluencia masiva de público, o no. 
+        p(data-aos="fade-down").mb-0 Después de valorar las amenazas y la vulnerabilidad de un evento, es posible establecer su nivel de riesgo y por lo tanto su complejidad, bien sea este de afluencia masiva de público o no. 
       .col-lg-4.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33.png', alt='')
 
-    .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-7.cajon.color-primario.p-4(data-aos="flip-down")
-        p(data-aos="fade-down").mb-0 #[b De acuerdo a lo anterior se puede categorizar como complejo o no complejo. ]  
+    p(data-aos="fade-down").mb-4 De acuerdo a lo anterior se puede categorizar como complejo o no complejo. 
 
     .row.justify-content-center.align-items-stretch.mb-5.bg9.p-4           
       .col-lg-6
@@ -43,9 +42,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img48.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Entonces, un evento es complejo cuando su calificación es alta después de valorar el riesgo, a partir de la probabilidad de materialización de las amenazas identificadas y de que estas puedan generar un daño considerable al lugar o entorno donde se desarrolla la actividad, a los asistentes, a la infraestructura y al medio ambiente. Para este tipo de eventos se debe activar el Sistema Nacional de Gestión del Riesgo de Desastres.
+        p.mb-0 Teniendo en cuenta lo anterior, un evento es #[b complejo] cuando su calificación es alta después de valorar el riesgo, a partir de la probabilidad de materialización de las amenazas identificadas y de que estas puedan generar un daño considerable al lugar o entorno donde se desarrolla la actividad, a los asistentes, a la infraestructura y al medio ambiente. Para este tipo de eventos se debe activar el Sistema Nacional de Gestión del Riesgo de Desastres.
           br
-          | Un evento se clasifica como no complejo, cuando la valoración del riesgo de afectación a los asistentes, la infraestructura o el medio ambiente es bajo o moderado, con poca probabilidad de que las amenazas identificadas se materialicen y afecten el escenario y el entorno.
+          br
+          | Un evento se clasifica como #[b no complejo], cuando la valoración del riesgo de afectación a los asistentes, la infraestructura o el medio ambiente es bajo o moderado, con poca probabilidad de que las amenazas identificadas se materialicen y afecten el escenario y el entorno.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     

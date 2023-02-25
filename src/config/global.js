@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Factores de riesgo y emergencias en un evento',
     descripcionCurso:
-      'La finalidad de identificar los factores de riesgos y las amenazas asociadas a un evento está relacionada con el control y mitigación de las emergencias, por ello se debe comprender cuáles son los lineamientos de la normativa legal nacional, regional y local para desarrollarlo, cumpliendo con la documentación de los planes operativos normalizados.',
+      'La finalidad de identificar los factores de riesgos y las amenazas asociadas a un evento, está relacionada con el control y mitigación de las emergencias, por ello, se debe comprender cuales son los lineamientos de la normativa legal nacional, regional y local para desarrollarlo, cumpliendo con la documentación de los planes operativos normalizados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -53,27 +53,6 @@ export default {
         numero: '3',
         titulo: 'Sistema de gestión del riesgo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Normativa local y nacional ',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Entidades que intervienen en la gestión del riesgo',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo:
-              'Matriz del riesgo y metodología para análisis del riesgo por colores',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
