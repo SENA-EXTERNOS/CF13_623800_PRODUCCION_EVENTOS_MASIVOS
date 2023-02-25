@@ -17,15 +17,14 @@
      
     #t_3_1(data-aos="zoom-in-left")
       h3 Normativa local y nacional 
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center.mb-4           
       .col-lg-8
         p(data-aos="fade-down").mb-0 Con el fin de establecer normas y procedimientos claros para la prevención y atención de desastres, se han generado leyes y decretos que orientan y regulan estos procesos. 
       .col-lg-4.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33-1.png', alt='')
 
-    .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5.cajon.color-primario.p-4(data-aos="flip-down")
-        p(data-aos="fade-down").mb-0 #[b Dentro de la normativa sobre el tema se encuentran:]
+    
+    p(data-aos="fade-down").mb-0 #[b Dentro de la normativa sobre el tema se encuentran:]
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         PasosA.color-acento-contenido(tipo="n")
@@ -83,9 +82,9 @@
           .col-lg-6
             h4 Unidad Nacional para la Gestión del Riesgo de Desastres
             p Encargada de coordinar todo el sistema nacional para la gestión del riesgo, mediante actividades de mitigación orientadas a fortalecer las capacidades de respuesta y manejo de desastres a escala nacional y local. De esta unidad de gestión se despliega la responsabilidad de tres comités:
-            p #[b Comité de Conocimiento]: Encargado de construir lineamientos y promover procesos de investigación para conocer el riesgo y generar conceptos que permitan la intervención oportuna. 
-            p #[b Comité de Reducción:] Dirige las políticas; su finalidad es modificar o controlar las condiciones de riesgo existentes haciendo intervención prospectiva.
-            p #[b Comité de Manejo de Desastres:] Orienta políticas de manejo de desastres y establece los procesos de recuperación y rehabilitación cuando se ha materializado una amenaza y los recursos no son suficientes para la atención. Su objetivo es garantizar la reconstrucción de condiciones económicas, infraestructura y servicios con el fin de disminuir la vulnerabilidad de las personas afectadas.
+            p #[b Comité de Conocimiento]: encargado de construir lineamientos y promover procesos de investigación para conocer el riesgo y generar conceptos que permitan la intervención oportuna. 
+            p #[b Comité de Reducción:] dirige las políticas; su finalidad es modificar o controlar las condiciones de riesgo existentes haciendo intervención prospectiva.
+            p #[b Comité de Manejo de Desastres:] orienta políticas de manejo de desastres y establece los procesos de recuperación y rehabilitación cuando se ha materializado una amenaza y los recursos no son suficientes para la atención. Su objetivo es garantizar la reconstrucción de condiciones económicas, infraestructura y servicios con el fin de disminuir la vulnerabilidad de las personas afectadas.
 
       .py-3.py-md-4(titulo="Consejos departamentales, distritales y municipales para la gestión del riesgo")
         .row.justify-content-center.align-items-center.py-3
