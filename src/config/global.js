@@ -111,22 +111,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Amenaza, vulnerabilidad',
-      referencia:
-        'Comisión Nacional Técnica Asesora para el Conocimiento del Riesgo (2017) Terminologia sobre la gestión del riesgo de desastres y fenomenos amenazantes.',
-      tipo: 'Documento PDF',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20761/Terminologia-GRD-2017.pdf?sequence=2',
-    },
-    {
-      tema: 'Niveles de complejidad de un evento',
-      referencia:
-        'Unidad Nacional de Gestión del Riesgo de Desastres (2018). <i>Guía técnica para la reglamentación local de eventos con aglomeraciones de público.</i>',
-      tipo: 'Guía técnica',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27735.',
-    },
-    {
       tema: 'Sistema de gestión del riesgo',
       referencia:
         'Fondo de Prevención y Atención de Emergencias (FOPAE) (2014). <i>Metodología de análisis de riesgo.</i>',
@@ -213,11 +197,6 @@ export default {
     },
     {
       referencia:
-        'Hernández, N. y Zapata, G. (2018) Guía técnica para la reglamentación local de eventos con aglomeraciones de público. Unidad Nacional para la Gestión del Riesgo de Desastres [UNGRD].',
-      link: 'https://bit.ly/3ASV1bW.',
-    },
-    {
-      referencia:
         'Instituto Colombiano de Normas Técnicas y Certificación [Icontec]-Consejo Colombiano de Seguridad (2007, 24 de octubre). Norma Técnica Colombiana NTC-OHSAS 18001. Sistemas de gestión en seguridad y salud ocupacional.',
       link: 'https://bit.ly/2Ikad55.',
     },
@@ -232,15 +211,10 @@ export default {
       link: 'https://definicion.de/psicologia/.',
     },
     {
-      referencia: 'Sacau, F. (2004). Definición de matriz. Educa Lab.',
-      link:
-        'http://recursostic.educacion.es/descartes/web/materiales_didacticos/Calculo_matricial_d3/defmat.htm.',
-    },
-    {
       referencia:
         'Sistema Nacional para la Gestión del Riesgo de Desastres [SNGRD]-Comité Nacional para el Conocimiento del Riesgo (2017). <i>Terminología sobre gestión del riesgo de desastres y fenómenos amenazantes.</i>',
       link:
-        'http://portal.gestiondelriesgo.gov.co/Paginas/Glosario_Terminos_Gestion_del_Riesgo.aspx.',
+        'https://www.academia.edu/32510178/Terminolog%C3%ADa_sobre_Gesti%C3%B3n_del_Riesgo_de_Desastres_y_Fen%C3%B3menos_Amenazantes_de_Colombia',
     },
   ],
   creditos: {

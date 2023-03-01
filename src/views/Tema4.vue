@@ -47,6 +47,7 @@
           br
           | Un evento se clasifica como #[b no complejo], cuando la valoración del riesgo de afectación a los asistentes, la infraestructura o el medio ambiente es bajo o moderado, con poca probabilidad de que las amenazas identificadas se materialicen y afecten el escenario y el entorno.
 
+    p.mb-4 Lo invitamos a ver el siguiente video para profundizar en este tema:
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure
