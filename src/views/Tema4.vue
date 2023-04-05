@@ -52,7 +52,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ulftHcvB2u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-down").mb-5 Para determinar el tipo de evento, la Guía técnica para la reglamentación local de eventos con aglomeraciones en público (2018) establece los lineamientos de acuerdo con cada una de las variables, y unas categorías para evaluar la ponderación y el nivel de riesgo de ejecución del evento:
 
