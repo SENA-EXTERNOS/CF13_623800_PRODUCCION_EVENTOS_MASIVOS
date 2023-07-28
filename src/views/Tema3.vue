@@ -57,7 +57,7 @@
             .col-md-6.mb-4.mb-md-0.col-lg-7
               h4(data-aos="fade-down") 24 de abril de 2012
               p(data-aos="fade-down") Ley 1523 de 2012, adopta la política nacional de gestión de riesgos de desastres y establece el Sistema Nacional de Gestión del Riesgo de Desastres para emitir regulaciones y normativas que permitan mitigar el riesgo y lograr un manejo adecuado de las emergencias cuando se presenten, replicando los lineamientos a todo el territorio. Para ello se crean en los departamentos los consejos de gestión de riesgo de desastres con sus comités y a escala local el consejo municipal de la gestión del riesgo de desastres con sus comités. 
-              p(data-aos="fade-down") Estas entidades están conformadas por instituciones públicas y privadas, así que  es responsabilidad de  gobernadores y alcaldes no solo intervenir sino ejecutar actividades de mitigación de los factores de riesgo que puedan llegar a afectar la salubridad y la seguridad de su jurisdicción. 
+              p(data-aos="fade-down") Estas entidades están conformadas por instituciones públicas y privadas, así que  es responsabilidad de  gobernadores y alcaldes no solo intervenir, sino ejecutar actividades de mitigación de los factores de riesgo que puedan llegar a afectar la salubridad y la seguridad de su jurisdicción. 
 
                                         
      
@@ -106,7 +106,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img43.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Para elaborar la matriz de riesgos, se debe aplicar la metodología de análisis de riesgo por colores, teniendo en cuenta que esta constituye una herramienta subjetiva, no obstante, al ser cualitativa permite identificar el tipo de amenazas, establecer el nivel de vulnerabilidad de las personas, los recursos, sistemas y procesos y, de acuerdo con ello, calificar el nivel de riesgo para el desarrollo de las actividades según las necesidades específicas de las organizaciones. 
+        p.mb-0 Para elaborar la matriz de riesgos, se debe aplicar la metodología de análisis de riesgo por colores, teniendo en cuenta que esta constituye una herramienta subjetiva, no obstante, al ser cualitativa, permite identificar el tipo de amenazas, establecer el nivel de vulnerabilidad de las personas, los recursos, sistemas y procesos y, de acuerdo con ello, calificar el nivel de riesgo para el desarrollo de las actividades según las necesidades específicas de las organizaciones. 
 
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade-left")
       .row.justify-content-around.align-items-center

@@ -80,7 +80,7 @@
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            p.mb-0.tv De acuerdo con el cumplimiento de los requisitos para el manejo de aglomeraciones es importante planificar y gestionar los recursos necesarios para anticiparse a una posible emergencia, ya que la responsabilidad de cualquier situación adversa durante el desarrollo del evento recae sobre quien lo organiza.                          
+            p.mb-0.tv De acuerdo con el cumplimiento de los requisitos para el manejo de aglomeraciones, es importante planificar y gestionar los recursos necesarios para anticiparse a una posible emergencia, ya que la responsabilidad de cualquier situación adversa durante el desarrollo del evento recae sobre quien lo organiza.                          
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img50.png', alt='')    
 

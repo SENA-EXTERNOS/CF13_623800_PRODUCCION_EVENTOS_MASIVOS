@@ -52,7 +52,7 @@
         .col-lg-2
           img.img-a.img-t(src='@/assets/curso/temas/img8.svg', alt='')
         .col-lg-8
-          p Es aquel escenario que entorpece el normal funcionamiento de una organización y que puede generar afectaciones a la continuidad de una organización. #[b Una emergencia, según la Ley 1523 de 2012] es la “situación caracterizada por la alteración o interrupción intensa y grave de las condiciones normales de funcionamiento u operación de una comunidad, causada por un evento adverso o por la inminencia de este, que obliga a una reacción inmediata y que requiere la respuesta de las instituciones del Estado, los medios de comunicación y de la comunidad en general” (art. 4, núm. 9).
+          p Es aquel escenario que entorpece el normal funcionamiento de una organización y que puede generar afectaciones a la continuidad de una organización. #[b Una emergencia, según la Ley 1523 de 2012], es la “situación caracterizada por la alteración o interrupción intensa y grave de las condiciones normales de funcionamiento u operación de una comunidad, causada por un evento adverso o por la inminencia de este, que obliga a una reacción inmediata y que requiere la respuesta de las instituciones del Estado, los medios de comunicación y de la comunidad en general” (art. 4, núm. 9).
 
           p #[b Dependiendo de la gravedad], las emergencias se dividen en tres tipos:
 
@@ -78,7 +78,7 @@
       .col-lg-9
         .cajon.color-primario.p-4(data-aos="flip-down")
           h4(data-aos="fade-down") Psicología de masas
-          p.pe-5(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionar su actuar. A esta conducta se debe prestar especial atención toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.
+          p.pe-5(data-aos="fade-down").mb-0 Estudia la conducta humana. Se ocupa de los grupos de individuos, en particular del porqué algunos de ellos, ante un estímulo, se contagian del comportamiento de los demás y lo repiten sin cuestionar su actuar. A esta conducta se debe prestar especial atención, toda vez que en eventos masivos puede desencadenar acciones que van en contravía del instinto de conservación y preservación que cada uno tiene.
 
     .tarjeta.position-relative
       .row.justify-content-center.align-items-center

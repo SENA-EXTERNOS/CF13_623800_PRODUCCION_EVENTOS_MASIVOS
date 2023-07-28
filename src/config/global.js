@@ -116,7 +116,7 @@ export default {
         'Fondo de Prevención y Atención de Emergencias (FOPAE) (2014). <i>Metodología de análisis de riesgo.</i>',
       tipo: 'Guía técnica',
       link:
-        'https://www.sire.gov.co/documents/82884/83768/A.3.4+Metodologias+AR.pdf/81cee0d0-2f31-4c0e-b3eb-ad6831b1fda2.',
+        'https://r.search.yahoo.com/_ylt=AwrEqltIm8Bk6WwI9larcgx.;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1690373065/RO=10/RU=https%3a%2f%2fwww.idiger.gov.co%2fdocuments%2f20182%2f981949%2fGuiaConstSistIndFOPAE.pdf%2fd6f39d9e-ebc3-4e59-91ff-791240ecc02a/RK=2/RS=bT7N9t7iob6dGrhN2onKGM191aw-',
     },
     {
       tema: 'Sistema de gestión del riesgo',
@@ -182,7 +182,6 @@ export default {
     {
       referencia:
         'Canto, J. y Gómez, L. (coords.) (1985) <i>Psicología social</i>. ',
-      link: 'https://bit.ly/3RKKs1m.',
     },
     {
       referencia:
@@ -198,7 +197,8 @@ export default {
     {
       referencia:
         'Instituto Colombiano de Normas Técnicas y Certificación [Icontec]-Consejo Colombiano de Seguridad (2007, 24 de octubre). Norma Técnica Colombiana NTC-OHSAS 18001. Sistemas de gestión en seguridad y salud ocupacional.',
-      link: 'https://bit.ly/2Ikad55.',
+      link:
+        'https://r.search.yahoo.com/_ylt=AwrJ_Gj9nMBkhWkIGDurcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1690373502/RO=10/RU=http%3a%2f%2fintranet.canalcapital.gov.co%2fintranet%2fdocdowncc%2fDocSistema%2f2007%2fNorma%2fSistemas%2520de%2520Gestion%2520de%2520Seguridad%2520y%2520Salud%2520Ocupacional%2520OHSAS%252018001-2007.pdf/RK=2/RS=lRWLm3U8f8gm5J4IZ_dW1Zh0IMg-',
     },
     {
       referencia:

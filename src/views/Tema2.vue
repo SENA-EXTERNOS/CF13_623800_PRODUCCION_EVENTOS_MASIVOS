@@ -9,10 +9,10 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
-        p(data-aos="fade-down") Otros conceptos claves que debe diferenciar y conocer a fondo, son amenaza y vulnerabilidad.  Las amenazas hacen referencia a aquellas situaciones o peligros ya sean de origen natural, antrópico o socio naturales que pueden dar lugar a una emergencia, siendo probable la ocurrencia de un desastre. Para ello, es importante identificar de manera oportuna la vulnerabilidad de los recursos, las personas y los sistemas o procesos.
+        p(data-aos="fade-down") Otros conceptos claves que debe diferenciar y conocer a fondo, son amenaza y vulnerabilidad.  Las amenazas hacen referencia a aquellas situaciones o peligros, ya sean de origen natural, antrópico o socio naturales, que pueden dar lugar a una emergencia, siendo probable la ocurrencia de un desastre. Para ello, es importante identificar de manera oportuna la vulnerabilidad de los recursos, las personas y los sistemas o procesos.
         .color-fondo-text2.bg-color(data-aos="fade-down")
           .color-fondo-text2__texto 
-            p #[b Amenaza:] De acuerdo con el marco legal vigente para Colombia, se define amenaza como el “peligro latente de que un evento físico de origen natural, causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales (Ley 1523, 2012, art. 4, núm.. 3).  
+            p #[b Amenaza:] De acuerdo con el marco legal vigente para Colombia, se define amenaza como el “peligro latente de que un evento físico de origen natural, causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales” (Ley 1523, 2012, art. 4, núm.. 3).  
       .col-lg-4
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img16_1.svg', alt='')
 
@@ -31,7 +31,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/img19.svg', alt='')    
       .row.justify-content-center.align-items-center(titulo="Inminentes")
         .col-lg-8
-          p Fenómenos esperados que tienen altas posibilidades de materializarse. Se identifican con el color rojo. Por ejemplo, si al hacer seguimiento a las condiciones atmosféricas el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) anuncia posibles tormentas eléctricas, es algo de lo que se tiene evidencia científica y que podría materializarse. 
+          p Fenómenos esperados que tienen altas posibilidades de materializarse. Se identifican con el color rojo. Por ejemplo, si al hacer seguimiento a las condiciones atmosféricas, el Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) anuncia posibles tormentas eléctricas, es algo de lo que se tiene evidencia científica y que podría materializarse. 
         .col-lg-2
           img.img-a.img-t(src='@/assets/curso/temas/img20.svg', alt='') 
 
