@@ -72,7 +72,7 @@
         .col-lg-2
           img.img-a.img-t(src='@/assets/curso/temas/img9.svg', alt='')
         .col-lg-8
-          p Ocurren cuando la emergencia sobrepasa la capacidad de respuesta ante un evento. #[b La Ley 1523 de 2012] lo define como “el resultado que se desencadena de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales que al encontrar condiciones propicias de vulnerabilidad en las personas, los bienes, la infraestructura, los medios de subsistencia, la prestación de servicios o los recursos ambientales, causa daños o pérdidas humanas, materiales, económicas o ambientales, generando una alteración intensa, grave y extendida en las condiciones normales de funcionamiento de la sociedad, que exige del Estado y del sistema nacional ejecutar acciones de respuesta a la emergencia, rehabilitación y reconstrucción”  #[b (art. 4, núm.. 8).]
+          p Ocurren cuando la emergencia sobrepasa la capacidad de respuesta ante un evento. #[b La Ley 1523 de 2012] lo define como “el resultado que se desencadena de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales que al encontrar condiciones propicias de vulnerabilidad en las personas, los bienes, la infraestructura, los medios de subsistencia, la prestación de servicios o los recursos ambientales, causa daños o pérdidas humanas, materiales, económicas o ambientales, generando una alteración intensa, grave y extendida en las condiciones normales de funcionamiento de la sociedad, que exige del Estado y del sistema nacional ejecutar acciones de respuesta a la emergencia, rehabilitación y reconstrucción”  (art. 4, núm.. 8).
 
     .row.justify-content-start.align-items-stretch.mb-5           
       .col-lg-9
