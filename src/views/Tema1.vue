@@ -88,7 +88,7 @@
     .bg2.p-3.mb-5(data-aos="flip-down")
       p(data-aos="fade-down").mb-0 #[b Teniendo en cuenta lo anterior], surge la importancia en la intervención y planeación de eventos, creando conductas, pautas y lineamientos que garanticen la preservación de la integridad de las personas que participan.
 
-    p(data-aos="fade-down").mb-5 De acuerdo con lo estudiado por Gustave Le Bon (2007), con respecto a la psicología de masas, se deben tener en cuenta los siguientes aspectos
+    p(data-aos="fade-down").mb-5 De acuerdo con lo estudiado por Gustave Le Bon (2007), con respecto a la psicología de masas, se deben tener en cuenta los siguientes aspectos.
 
     SlyderA(tipo="b")(data-aos="fade-left").bg3.p-4.mb-5
       .row.justify-content-center.align-items-center(titulo="Titulo item 1")
